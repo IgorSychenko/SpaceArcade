@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": "",
+	"Description": "SpaceArcade project no UE4 C++",
 	"Modules": [
 		{
 			"Name": "SpaceArcade",
